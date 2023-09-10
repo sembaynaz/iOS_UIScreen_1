@@ -102,7 +102,7 @@ class MainTableViewCell: UITableViewCell {
         exchangeLabel.text = cripto.exchangeLabel
     }
 }
-
+// Constraints
 extension MainTableViewCell {
     func configureView() {
         configImage()
