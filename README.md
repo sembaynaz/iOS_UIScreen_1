@@ -23,15 +23,15 @@ To install and run the "UIScreens" project on your iOS device or simulator, foll
 
 The "UIScreens" application is a starting point for developing a cryptocurrency portfolio management app on iOS. You can use this project as a foundation and extend its functionality to meet your specific requirements.
 
-###Main Screen
+### Main Screen
 
 The Main Screen, labeled "Портфолио" (Portfolio), displays a user's cryptocurrency portfolio. It presents cryptocurrency information such as name, price fluctuations, and total holdings in a vertically scrolling list. Users can view their crypto assets and scroll through the list to explore their investments further.
 
-###Reports Screen
+### Reports Screen
 
 The Reports Screen is intended to provide users with detailed reports on their cryptocurrency investments. While the specific functionality and content of this screen are not detailed in the provided code, it serves as a starting point for developing insightful data and analytics related to the user's portfolio.
 
-###Profile Screen
+### Profile Screen
 
 The Profile Screen, although not fully implemented in the provided code, allows users to manage their profile settings. It can include features such as account settings, user information, and preferences. You can extend this screen to enhance user profile management.
 
@@ -49,7 +49,7 @@ The Profile Screen, although not fully implemented in the provided code, allows 
 Thank you for considering contributing to the "UIScreens" project. Your contributions can help improve the app and make it more valuable to the community.
 
 
-#Author
+# Author
 
 git: sembaynaz
 
