@@ -20,7 +20,6 @@ To install and run the "UIScreens" project on your iOS device or simulator, foll
 4. Build and run the project on your preferred iOS device or simulator.
 
 ## Usage
-# Usage
 
 This "UIScreens" project provides a user interface with a tab bar, showcasing cryptocurrency-related information. Below are details on how to navigate and understand the code:
 
